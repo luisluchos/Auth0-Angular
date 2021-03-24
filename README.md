@@ -1,4 +1,5 @@
 # Authapp
+User login to an Angular application using Auth0.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
